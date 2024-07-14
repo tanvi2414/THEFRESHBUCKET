@@ -1,0 +1,250 @@
+{
+    "navbar": {
+      "websiteTitle":"The Fresh Bucket",
+      "home": "Home",
+      "farms":"Farm",
+      "mentorship": "Mentorship",
+      "blog": "Blog",
+      "contactUs": "Contact Us",
+      "language": "Language",
+      "english": "English",
+      "hindi": "Hindi",
+      "products": "Products",
+      "services": "Services",
+      "polyhouseProducts": "Polyhouse products",
+      "hydroponicProducts": "Hydroponic products",
+      "tfbAMCService": "AMC Service",
+      "tfbBuybackService":"Buyback Service"
+    },
+    "footer": {
+      "visionTitle": "Vision",
+      "visionContent": "The Fresh Bucket pioneers sustainable agriculture globally, promoting accessible, organic produce through innovative practices like hydroponics. Empowering farmers with knowledge, they envision thriving communities nourished by local, sustainable food. Our mission fosters a resilient, eco-friendly food system, shaping a healthier future for people and the planet through education and collaboration.",
+      "missionTitle": "Mission",
+      "missionContent": "At The Fresh Bucket, we're on a mission to transform agriculture with sustainability at its core. Through innovative practices like hydroponics and precision farming, we produce premium organic produce while preserving our planet. We empower farmers through education, fostering community and envisioning a future where sustainable farming nourishes both people and the planet.",
+      "servicesTitle": "Our Services",
+      "about": "About Us",
+      "projects": "Projects",
+      "services": "Services",
+      "polyhouse-products":"Polyhouse products",
+      "hydroponic-products":"Hydroponic products",
+      "faq": "FAQ",
+      "contact": "Contact Us",
+      "contactUsTitle": "Contact Us"
+    },
+    "farmers-challenges": {
+      "summary": "Farmers today face a myriad of challenges that threaten their livelihoods and the sustainability of agriculture...",
+      "readMore": "Read More",
+      "details": "One of the most pressing issues is climate change, which leads to unpredictable weather patterns, droughts, and floods, severely impacting crop yields. Additionally, small-scale farmers struggle with financial instability due to fluctuating market prices and high input costs for seeds, fertilizers, and machinery. Access to modern technology and resources remains limited, hindering productivity and efficiency. Furthermore, farmers often lack adequate support and training to adopt sustainable farming practices. These problems are compounded by policy inadequacies and insufficient access to credit and insurance. Addressing these issues requires comprehensive support systems, innovative solutions, and strong policy frameworks to ensure the resilience and prosperity of farming communities worldwide.",
+      "readLess": "Read Less"
+    },
+    "card": {
+      "ourServices":"Our Services",
+      "service1": {
+        "title": "High-Quality Organic Produce",
+        "description": "We grow and supply fresh, organic fruits, vegetables, and herbs using advanced and eco-friendly farming methods. Our produce is cultivated without synthetic pesticides or fertilizers, ensuring it is healthy and safe for consumption."
+        
+      },
+      "service2": {
+        "title": "Hydroponics and Urban Farming Solutions",
+        "description": "We specialize in setting up and managing hydroponic systems, both in urban environments and traditional agricultural settings. These systems maximize space and water efficiency, making them ideal for producing high-yield crops with minimal environmental impact."
+      
+      },
+      "service3": {
+        "title": "Sustainable Farming Training Program",
+        "description": "Our comprehensive training programs and workshops cover a wide range of topics, from basic organic farming techniques to advanced sustainable practices. These sessions are designed for farmers, gardening enthusiasts, and community members, empowering them with the knowledge and skills needed to succeed in sustainable agriculture.",
+        "button": "Read More"
+      },
+      "service4": {
+        "title": "Agriculture Consulting Services",
+        "description": "We offer personalized consulting services to help farms transition to more sustainable practices. Our team of experts works closely with farmers to develop customized plans that improve soil health, optimize resource use, and increase crop yields, all while reducing environmental impact."
+        
+      },
+      "service5": {
+        "title": "Community Engagement and Education",
+        "description": "We believe in the power of community. Through our outreach programs, we engage with local communities to raise awareness about the benefits of sustainable agriculture. We organize events, school programs, and community gardens to educate and involve people of all ages in our mission."
+        
+      },
+      "service6": {
+        "title": "Supply of Organic Farming Inputs",
+        "description": "We provide essential inputs for sustainable farming, including organic seeds, natural fertilizers, and eco-friendly pest control solutions. Our products are carefully selected to support the health of both crops and the environment."
+        
+      },
+      "readMore":"Read More"
+    },
+    "texts": {
+      "whyChooseTitle": "Why Choose Us",
+      "whyChooseContent": "At The Fresh Bucket, we are dedicated to empowering farmers with the tools and resources they need to thrive in today’s challenging agricultural landscape. Choosing our company means gaining access to cutting-edge sustainable farming techniques and high-quality organic products that enhance soil health and crop yields. We offer comprehensive training programs and workshops, ensuring farmers are equipped with the latest knowledge and best practices in sustainable agriculture. Our commitment to innovation includes introducing advanced technologies like hydroponics and precision farming, which optimize efficiency and productivity. Additionally, we provide robust support networks and market access, helping farmers sell their produce at fair prices. By partnering with The Fresh Bucket, farmers can secure a more prosperous, resilient, and sustainable future for their farms and communities.",
+      "whatWeDoTitle": "What We Do",
+      "whatWeDoContent": "At The Fresh Bucket, we are dedicated to transforming agriculture through sustainable and innovative practices. We produce high-quality organic produce using advanced techniques like hydroponics and precision farming for optimal growth and minimal environmental impact. Our services include training programs, workshops, and consulting to help farms adopt eco-friendly methods. By fostering community ties and promoting sustainable living, we aim to create a healthier planet and a brighter future. Our commitment to quality, sustainability, and education distinguishes us as leaders in the organic farming industry"
+    },
+    "carousel": {
+      "projects": {
+        "title": "Our Projects",
+        "description": "At The Fresh Bucket, we are dedicated to driving innovation and sustainability in agriculture through a variety of impactful projects."
+      },
+      "urbanHydroponics": {
+        "title": "Urban Hydroponics Initiative",
+        "description": "This project focuses on introducing hydroponic systems in urban areas, transforming unused spaces into productive farms. By doing so, we provide city dwellers with fresh, organic produce and promote urban sustainability."
+      },
+      "communityFarming": {
+        "title": "Community Farming Programs",
+        "description": "We collaborate with local communities to establish small-scale organic farms. These programs aim to educate residents about sustainable farming practices, create job opportunities, and improve local food security."
+      },
+      "trainingWorkshops": {
+        "title": "Sustainable Agriculture Training Workshops",
+        "description": "Our workshops are designed to equip farmers with the knowledge and skills needed to adopt sustainable practices. Covering topics from soil health to advanced farming technologies, these workshops are instrumental in fostering a new generation of eco-conscious farmers."
+      },
+      "schoolGardens": {
+        "title": "School Gardens Project",
+        "description": "Partnering with schools, we help establish educational gardens where students can learn about agriculture, nutrition, and sustainability. These gardens serve as hands-on learning environments and inspire young minds to appreciate and engage in sustainable practices."
+      },
+      "farmerSupport": {
+        "title": "Farmer Support and Consulting",
+        "description": "We offer consulting services to help traditional farms transition to organic and sustainable methods. Our experts work closely with farmers to develop customized plans that improve yield, reduce environmental impact, and enhance overall farm resilience."
+      }
+    },
+    "buyProduct": {
+      "formTitle": "Buy A Product Today",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your Name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Your Email",
+      "phoneLabel": "Phone",
+      "phonePlaceholder": "Your Phone Number",
+      "selectedProductsLabel": "Selected Products",
+      "polyhouseProductsLabel": "Select Polyhouse Products",
+      "hydroponicProductsLabel": "Select Hydroponic Products",
+      "submitButton": "Submit"
+    },
+    "selectProducts": {
+      "polyhouse": {
+        "polyhouse-1": "Polyethylene Sheet",
+        "polyhouse-2": "Zig Zag Wire",
+        "polyhouse-3": "Insect Net",
+        "polyhouse-4": "Shade Net",
+        "polyhouse-5": "Gutter",
+        "polyhouse-6": "Universal Joint",
+        "polyhouse-7": "Aluminium Profile",
+        "polyhouse-8": "Screw",
+        "polyhouse-9": "Nuts & Bolts",
+        "polyhouse-10": "Clamps"
+      },
+      "hydroponic": {
+        "hydroponic-1": "Teflon Thread tape 12mm",
+        "hydroponic-2": "UPVC solvent 473ml",
+        "hydroponic-3": "Crop Net",
+        "hydroponic-4": "Twine Rope",
+        "hydroponic-5": "NFT channel 2mm",
+        "hydroponic-6": "NFT channel 3mm"
+      }
+    },
+    "contactUs": {
+      "contactDetails": "Contact Details",
+      "getInTouch": "Get in Touch",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "project": "Project",
+      "product": "Product",
+      "service": "Service",
+      "message": "Your Message",
+      "submit": "Submit",
+      "locationAddress": "Location Address:",
+      "emailAddress": "Email:",
+      "phoneNumber": "Phone:",
+      "selectProject": "Select Project",
+      "selectProduct": "Select Product",
+      "selectService": "Select Service",
+      "projects": {
+        "project1": "Urban Hydroponics Initiative",
+        "project2": "Community Farming Programs",
+        "project3": "Sustainable Agriculture Training Workshops",
+        "project4": "School Gardens Project",
+        "project5": "Farmer Support and Consulting"
+      },
+      "products": {
+        "product1": "Hydroponic Products",
+        "product2": "Polyhouse Products"
+      },
+      "services": {
+        "service1": "AMC service",
+        "service2": "Buyback service"
+      }
+    },
+    "polyhouse-products": {
+      "product1": {
+        "title": "Polyethylene sheet",
+        "imageUrl": "../images/polyethylene.jpg"
+      },
+      "product2": {
+        "title": "Zig Zag Wire",
+        "imageUrl": "../images/zigzagwire.jpg"
+      },
+      "product3": {
+        "title": "Insect Net",
+        "imageUrl": "../images/insectnet.jpg"
+      },
+      "product4": {
+        "title": "Shade Net",
+        "imageUrl": "../images/shade.jpg"
+      },
+      "product5": {
+        "title": "Gutter",
+        "imageUrl": "../images/gutter.jpg"
+      },
+      "product6": {
+        "title": "Universal Joint",
+        "imageUrl": "../images/joint.jpg"
+      },
+      "product7": {
+        "title": "Aluminium Profile",
+        "imageUrl": "../images/aluminuimprofile.jpg"
+      },
+      "product8": {
+        "title": "Screw",
+        "imageUrl": "../images/screws.jpg"
+      },
+      "product9": {
+        "title": "Nuts & Bolts",
+        "imageUrl": "../images/nutbolt.jpg"
+      },
+      "product10": {
+        "title": "Clamps",
+        "imageUrl": "../images/clamp.jpg"
+      },
+      "addToCart": "Add to cart"
+    },
+    "hydroponic-products": {
+      "product1": {
+        "title": "Teflon Thread tape 12mm",
+        "imageUrl": "../images/teflon.jpg"
+      },
+      "product2": {
+        "title": "UPVC solvent 473mm",
+        "imageUrl": "../images/upvc.jpg"
+      },
+      "product3": {
+        "title": "Crop Net",
+        "imageUrl": "../images/cropnet.jpg"
+      },
+      "product4": {
+        "title": "Twine Rope",
+        "imageUrl": "../images/twinerope.jpg"
+      },
+      "product5": {
+        "title": "NFT channel 2mm",
+        "imageUrl": "../images/nft2mm.jpg"
+      },
+      "product6": {
+        "title": "NFT channel 3mm",
+        "imageUrl": "../images/nft3mm.jpg"
+      },
+      "addToCart": "Add to cart"
+    },
+    "farms": {
+      "viewDetails": "View Details"
+    }
+  }
+    
+  
